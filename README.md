@@ -2,7 +2,7 @@
 
 ## Hello! 👋
 
-I'm a passionate software engineer based in Vancouver, BC 🏔️ with 9 years of professional experience. 👨‍💻
+I'm a passionate software engineer based in Canada 🇨🇦 with 9 years of professional experience. 👨‍💻
 
 My focus for the majority of these years has been in the JavaScript & TypeScript ecosystem.  
 In the past two years I have immersed myself in the cloud computing space. 🌩️   
