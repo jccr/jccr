@@ -1,6 +1,6 @@
 
 ## Hello world! 👋
-  <img align="right" width="120px" src="https://user-images.githubusercontent.com/5132652/164617212-b56e7fb9-da7a-4bc3-99a7-06b672ce9fd5.png">
+  <img align="right" width="110px" src="https://user-images.githubusercontent.com/5132652/164617212-b56e7fb9-da7a-4bc3-99a7-06b672ce9fd5.png">
 
 I'm a passionate software engineer based in Canada 🇨🇦 with 9 years of professional experience. 👨‍💻
 
