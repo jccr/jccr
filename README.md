@@ -2,7 +2,7 @@
 ## Hello world! 👋
   <img align="right" width="110px" src="https://user-images.githubusercontent.com/5132652/164617212-b56e7fb9-da7a-4bc3-99a7-06b672ce9fd5.png">
 
-I'm a passionate and driven Fullstack Software Engineer 👨🏻‍💻 who's branching from being Frontend 🪴
+I'm a passionate and driven Fullstack Software Engineer👨🏻‍💻 who's branching from being Frontend 🪴
 
 My focus for the majority of these years has been in the JavaScript 🟨  TypeScript 🟦 ecosystem.
 I'm a huge fan of the [Open Web Platform 🕸](https://www.w3.org/wiki/Open_Web_Platform) and [component driven development](https://www.componentdriven.org/) with React ⚛️.
