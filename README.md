@@ -4,7 +4,7 @@
 
 I'm a passionate and driven Fullstack Software Engineer👨🏻‍💻 who's branching from being Frontend 🪴
 
-My focus for the majority of 8 years has been in the JavaScript 🟨  TypeScript 🟦 ecosystem.
+The focus for the majority of my career has been in the JavaScript 🟨  TypeScript 🟦 ecosystem.
 I'm a huge fan of the [Open Web Platform 🕸](https://www.w3.org/wiki/Open_Web_Platform) and [component driven development](https://www.componentdriven.org/) with React ⚛️.
 
 In the past two years I have immersed myself in the cloud computing space 🌩️  
