@@ -7,7 +7,7 @@ I'm a passionate and driven Fullstack Software Engineer👨🏻‍💻 who's bra
 My focus for the majority of these years has been in the JavaScript 🟨  TypeScript 🟦 ecosystem.
 I'm a huge fan of the [Open Web Platform 🕸](https://www.w3.org/wiki/Open_Web_Platform) and [component driven development](https://www.componentdriven.org/) with React ⚛️.
 
-In the past two years I have immersed myself in the cloud computing space. 🌩️
+In the past two years I have immersed myself in the cloud computing space 🌩️  
 I've been in the backend using Go 🐿 Kubernetes ☸️ Kafka 🪳 PostgreSQL 🐘 Azure 💠  AWS 🔶
 
 My professional experience builds on years of personal projects where I made .NET (+WPF), Java (+FX), Android/iOS applications — unleashing my creativity in UI/UX. I apply my past love for Flash animation to achieve neat visual effects 💥 of which I confidently bring to HTML & CSS.
