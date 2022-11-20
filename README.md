@@ -12,6 +12,6 @@ I've been in the backend using Go 🐿 Kubernetes ☸️ Kafka 🪳 PostgreSQL �
 
 My professional experience builds on years of personal projects where I made .NET (+WPF), Java (+FX), Android/iOS applications — unleashing my creativity in UI/UX. I apply my past love for Flash animation to achieve neat visual effects 💥 of which I confidently bring to HTML & CSS.
   
-Check out my website @ https://jccr.dev 
+Check out my website @ https://jccr.dev or find me on Mastodon <a rel="me" href="https://techhub.social/@jccr">@jccr@techhub.social</a>
 
 Oh and feel free to check out my featured repos too! 👇
