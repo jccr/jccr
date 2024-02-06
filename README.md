@@ -10,8 +10,7 @@ My experience in cloud computing 🌩️ involves using a broad range of tools a
 
 Building upon a background in creating .NET (+WPF), Java (+FX), and mobile applications, I hold a strong interest in UI/UX and am passionate about creating visually stunning effects 💥. I channel this creativity into HTML & CSS, building on my past experiences with Flash animation.
 
-Recently, I've been delving into the AI/ML world, gaining practical experience applying open-source models from Hugging Face, with PyTorch, and employing TensorFlow.js / TFLite for web/mobile inference.
-I've also innovated with prompt engineering and generative models using OpenAI's GPT-4 in a production SaaS application.
+Recently, I've been delving into the AI/ML world 🧠, gaining practical experience applying open-source models from Hugging Face 🤗, with PyTorch 🔥, and employing TensorFlow.js / TFLite for web/mobile inference 📱. I've also innovated with prompt engineering and generative models using OpenAI's GPT-4 🤖 in a production SaaS application  🚀.
 
 🌐 Visit my website @ [jccr.dev](https://jccr.dev)
 🐘 Follow me on [Mastodon](https://techhub.social/@jccr)
