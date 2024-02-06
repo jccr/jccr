@@ -21,5 +21,3 @@ Recently, I've been exploring the **AI/ML space 🧠**, gaining experience in em
 🐘 Follow me on Mastodon [@jccr@techhub.social](https://techhub.social/@jccr)
 
 **Feel free to explore my pinned repositories below!** 👇
-
----
